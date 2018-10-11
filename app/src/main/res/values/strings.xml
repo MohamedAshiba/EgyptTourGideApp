@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">EgyptTourGide</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_tourism">Tourism</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_mosques">Mosques</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_parks">Parks</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_restaurant">Restaurant</string>
+
+
+    <!-- Category name for the tourism in egypt -->
+    <string name="name_the_pyramids">The Pyramids</string>
+    <string name="name_the_khan">Khan El-Khalili</string>
+    <string name="name_the_tour">Cairo Tower</string>
+    <string name="name_the_palace_baron">Baron Palace</string>
+    <string name="name_the_palace_abdeen">Abdeen Palace</string>
+    <string name="name_the_aswan">The Aswan</string>
+    <string name="name_the_luxor">The Luxor</string>
+    <string name="name_the_wahat">Alwahat</string>
+    <string name="name_the_sharm">Sharm</string>
+    <string name="name_the_gharda">Hardaqa</string>
+    <string name="name_the_gona">El-Gouna</string>
+    <string name="name_the_alam">Marsa Alam</string>
+
+    <string name="name_position_cairo">Cairo, Egypt</string>
+    <string name="name_position_giza">Giza, egypt</string>
+    <string name="name_position_aswan">Aswan, egypt</string>
+    <string name="name_position_luxor">Luxor, egypt</string>
+    <string name="name_position_wahat">TheNewValley, Egypt</string>
+    <string name="name_position_sharm">SharmEl-Sheikh, Egypt</string>
+    <string name="name_position_gharda">Hardaqa, Egypt</string>
+    <string name="name_position_alam">TheRedSea, Egypt</string>
+    <string name="name_position_helwan">Helwan, Egypt</string>
+
+    <!-- Category name for the mosques in egypt -->
+    <string name="name_the_azhar">Al-Azhar</string>
+    <string name="name_the_hussein">Imam Hussein</string>
+    <string name="name_the_zainab">Al-Sayeda Zainab</string>
+    <string name="name_the_nafeesah">Al-Sayeda Nafeesah</string>
+    <string name="name_the_aisha">Al-Sayeda Aisha</string>
+    <string name="name_the_amr">Amr Ibn Al-Aas</string>
+    <string name="name_the_hakim">Al-Hakim Bi-Amr Allah</string>
+    <string name="name_the_muayed">Sultan Al-Muayyad</string>
+    <string name="name_the_ali">Mohamed Ali</string>
+    <string name="name_the_rifai">Al-Rifai</string>
+    <string name="name_the_hassan">Sultan Hassan</string>
+    <string name="name_the_tulon">Ibn tulun</string>
+
+    <string name="history_azhar">972AD</string>
+    <string name="history_hussein">1154AD</string>
+    <string name="history_zainab">1940AD</string>
+    <string name="history_nafeesah">1138AD</string>
+    <string name="history_aisha">1971AD</string>
+    <string name="history_amr">641AD</string>
+    <string name="history_hakim">1013AD</string>
+    <string name="history_muayed">1410AD</string>
+    <string name="history_ali">1830AD</string>
+    <string name="history_rifai">1911AD</string>
+    <string name="history_hassan">1362AD</string>
+    <string name="history_tulon">872AD</string>
+
+    <!-- Category name for the Parks in egypt -->
+    <string name="name_the_azhar_park">Al-Azhar Park</string>
+    <string name="name_the_japanese">Japanese Garden‬</string>
+    <string name="name_the_gabalaya">Gabalaya Garden</string>
+    <string name="name_the_giza_zoo">Giza Zoo</string>
+    <string name="name_the_zoo">The Zoo</string>
+    <string name="name_the_fustat">Fustat Park</string>
+    <string name="name_the_andalos">El-Andalos Park</string>
+    <string name="name_the_merryland">Merryland Park</string>
+    <string name="name_the_inter">International Garden</string>
+    <string name="name_the_mokkatom">Mokkatom Mountain‬</string>
+    <string name="name_the_azhar_degla">Wadi Degla‬</string>
+    <string name="name_the_nile">The Nile River</string>
+    <string name="name_the_desert">Western Desert‬</string>
+    
+    <string name="describe_azhar_park">gardens</string>
+    <string name="describe_japanese">gardens</string>
+    <string name="describe_zoo">Zoos</string>
+    <string name="describe_fustat">plants gardens</string>
+    <string name="describe_inter">City Park</string>
+    <string name="describe_mokkatom">Mountains</string>
+    <string name="describe_degla">Wildlife</string>
+    <string name="describe_nile">Bodies of Water</string>
+    <string name="describe_desert">Deserts</string>
+
+
+</resources>
